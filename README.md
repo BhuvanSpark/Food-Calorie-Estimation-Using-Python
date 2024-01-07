@@ -12,4 +12,4 @@ The pictorial Representation of the CNN model for better or basic understanding 
 
 ![3](https://github.com/HariPrashand/Food-Calorie-Estimation-Using-Python/assets/115578421/0bb644d4-7055-42a0-9628-18da01e16c89)
 
-[Link to CNN Documentation](https://www.tensorflow.org/tutorials/images/cnn)
+[CNN Documentation](https://www.tensorflow.org/tutorials/images/cnn)
