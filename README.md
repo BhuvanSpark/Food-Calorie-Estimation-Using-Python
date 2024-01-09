@@ -8,7 +8,7 @@ OpenCV is used to analyse the image provided. One of the main advantag is that t
 
 ![2](https://github.com/HariPrashand/Food-Calorie-Estimation-Using-Python/assets/115578421/7260524d-8a6e-47f9-acdd-24521bf5df64)
 
-The pictorial Representation of the CNN model for better or basic understanding of the model.
+The pictorial Representation of the CNN model for better understanding of the model.
 
 ![3](https://github.com/HariPrashand/Food-Calorie-Estimation-Using-Python/assets/115578421/0bb644d4-7055-42a0-9628-18da01e16c89)
 
